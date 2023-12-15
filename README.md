@@ -5,3 +5,5 @@ Example command:
 ```
   ./script.sh songs.txt output_dir/
 ```
+
+In order to run this you need yt-dlp
